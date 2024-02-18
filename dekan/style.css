@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    overflow: hidden;
+}
+
+
+.spa{
+    position: relative;
+}
+.map{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+}
+
+.cent{
+    display: flex;
+    justify-content: center;
+}
+
+.player{
+    width: 150px;
+    height: 70px;
+}
+
+.img3{
+    margin-top: 370px;
+    margin-left: 1380px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+.img4{
+    position: absolute;
+    width: 150px;
+    height: 100px;
+}
+
+
+.zombi{
+    position: absolute;
+}
+.mina{
+    position: absolute;
+}
+
+.img5{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+}
+.block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    color: white;
+    width: 150px;
+    height: 200px;
+    background-color: rgba(30, 29, 29, 0.8);
+}
+
+
+.res{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    color: white;
+    width: 350px;
+    height: 200px;
+    background-color: rgba(30, 29, 29, 0.8);
+    margin-left: 600px;
+    margin-top: -600px;
+}
+
